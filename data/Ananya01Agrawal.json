@@ -1,0 +1,24 @@
+{
+  "name": "Ananya Agrawal",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "TechEnthusiast **Programmer**. Designer & Problem Solver",
+  "avatar": "https://github.com/Ananya01Agrawal.png",
+}
+"links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/ananya17071650",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/ananya-agrawal-9727b2230/",
+      "icon": "FaLinkedin"
+    },
+  {
+      "name": "Github",
+      "url": "https://github.com/Ananya01Agrawal",
+      "icon": "FaGithub"
+    }
+  ]
